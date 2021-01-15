@@ -6,3 +6,8 @@ Xito juga menyematkan breakdown di dalam kode, harapannya dapat membantu teman-t
  1. Termux App
  2. Sudah install python 3
  3. Jomlo . . . ;D
+
+# Usage
+Untuk menggunakan tools ini, cukup jalankan kode ekstended.py :
+
+python ekstended.py
