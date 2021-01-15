@@ -104,13 +104,6 @@ prop_ = """extra-keys = [ \
 ###    file termux.properties yang lama akan ditimpa,
 ###    bukan ditambahi string baru.
 
-###  Xito sangat berharap,
-###    kalian yang sedang mendalami Termux akan
-###    lebih antusias untuk mempelajari
-###    bahasa pemrogrammannya, bukan mencari
-###    tools2 cracking yang sebagian besar hanya
-###    menampilkan string semata.
-
 ###  TERIMAKASIH sudah berkunjung ke repositori Xitoid
 ###  Semoga repo ini bermanfaat.
 
