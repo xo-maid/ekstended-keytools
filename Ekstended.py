@@ -7,7 +7,7 @@ import time
 
 ###  Xito membuat beberapa fungsi di sini untuk
 ###    mempermudah proses update (jika ada)
-###  Rencananya kedepannya, user bisa menentukan sendiri
+###  Rencana kedepannya, user bisa menentukan sendiri
 ###    tombol apa saja yang akan dia gunakan
 
 ###  Fungsi _head() di sini untuk membersihkan
