@@ -11,3 +11,6 @@ Xito juga menyematkan breakdown di dalam kode, harapannya dapat membantu teman-t
 Untuk menggunakan tools ini, cukup jalankan kode ekstended.py :
 
 python ekstended.py
+
+#  Next Update
+Rencananya nanti di-update, agar user bisa menentukan sendiri tombol apa saja yang ingin dipakai.
